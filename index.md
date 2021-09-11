@@ -3,6 +3,5 @@ layout: page
 title: Hey Nic
 ---
 
-# Hey Nic
-
-## coming soon
+# Hey, I'm Nic
+## [email me](mailto:nic@heynic.nz)
